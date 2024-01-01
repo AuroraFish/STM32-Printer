@@ -1,0 +1,15 @@
+auroraprinterprojet\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+auroraprinterprojet\timers.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+auroraprinterprojet\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+auroraprinterprojet\timers.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+auroraprinterprojet\timers.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+auroraprinterprojet\timers.o: ../Core/Inc/FreeRTOSConfig.h
+auroraprinterprojet\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+auroraprinterprojet\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+auroraprinterprojet\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+auroraprinterprojet\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+auroraprinterprojet\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+auroraprinterprojet\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+auroraprinterprojet\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+auroraprinterprojet\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+auroraprinterprojet\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

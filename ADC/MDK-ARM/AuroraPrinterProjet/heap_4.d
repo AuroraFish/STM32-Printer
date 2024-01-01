@@ -1,0 +1,13 @@
+auroraprinterprojet\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+auroraprinterprojet\heap_4.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+auroraprinterprojet\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+auroraprinterprojet\heap_4.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+auroraprinterprojet\heap_4.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+auroraprinterprojet\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+auroraprinterprojet\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+auroraprinterprojet\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+auroraprinterprojet\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+auroraprinterprojet\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+auroraprinterprojet\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+auroraprinterprojet\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+auroraprinterprojet\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,15 @@
+auroraprinterprojet\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+auroraprinterprojet\event_groups.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+auroraprinterprojet\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+auroraprinterprojet\event_groups.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+auroraprinterprojet\event_groups.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+auroraprinterprojet\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+auroraprinterprojet\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+auroraprinterprojet\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+auroraprinterprojet\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+auroraprinterprojet\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+auroraprinterprojet\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+auroraprinterprojet\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+auroraprinterprojet\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+auroraprinterprojet\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+auroraprinterprojet\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
