@@ -1,0 +1,14 @@
+printerproject\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+printerproject\stream_buffer.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+printerproject\stream_buffer.o: E:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+printerproject\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+printerproject\stream_buffer.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+printerproject\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+printerproject\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+printerproject\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+printerproject\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+printerproject\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+printerproject\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+printerproject\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+printerproject\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+printerproject\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h
