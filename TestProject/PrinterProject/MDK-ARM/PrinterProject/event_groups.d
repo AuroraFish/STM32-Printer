@@ -1,0 +1,15 @@
+printerproject\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+printerproject\event_groups.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+printerproject\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+printerproject\event_groups.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+printerproject\event_groups.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+printerproject\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+printerproject\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+printerproject\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+printerproject\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+printerproject\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+printerproject\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+printerproject\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+printerproject\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+printerproject\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+printerproject\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

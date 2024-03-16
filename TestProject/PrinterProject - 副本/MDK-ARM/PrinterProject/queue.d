@@ -1,0 +1,15 @@
+printerproject\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+printerproject\queue.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+printerproject\queue.o: E:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+printerproject\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+printerproject\queue.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+printerproject\queue.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+printerproject\queue.o: ../Core/Inc/FreeRTOSConfig.h
+printerproject\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+printerproject\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+printerproject\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+printerproject\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+printerproject\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+printerproject\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+printerproject\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+printerproject\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

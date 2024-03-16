@@ -1,0 +1,15 @@
+printerproject\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+printerproject\timers.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+printerproject\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+printerproject\timers.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+printerproject\timers.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+printerproject\timers.o: ../Core/Inc/FreeRTOSConfig.h
+printerproject\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+printerproject\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+printerproject\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+printerproject\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+printerproject\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+printerproject\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+printerproject\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+printerproject\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+printerproject\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

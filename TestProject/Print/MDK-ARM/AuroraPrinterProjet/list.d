@@ -1,0 +1,12 @@
+auroraprinterprojet\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+auroraprinterprojet\list.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+auroraprinterprojet\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+auroraprinterprojet\list.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+auroraprinterprojet\list.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+auroraprinterprojet\list.o: ../Core/Inc/FreeRTOSConfig.h
+auroraprinterprojet\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+auroraprinterprojet\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+auroraprinterprojet\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+auroraprinterprojet\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+auroraprinterprojet\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+auroraprinterprojet\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
